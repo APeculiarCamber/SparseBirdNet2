@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+**/datasets/bv_kitti/
+
 # C extensions
 *.so
 
